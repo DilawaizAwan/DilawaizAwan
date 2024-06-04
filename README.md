@@ -1,4 +1,4 @@
-
+![logo](https://github.com/DilawaizAwan/DilawaizAwan/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Dilawaiz Mushtaq</h1>
 <h3 align="center">A passionate Software Engineer and A Graphic Designer from Pakistan</h3>
 
